@@ -1,6 +1,5 @@
-<details> <summary> <b>openwrt-passwall-packages new commit log :new: </b>  </summary>
+<details> <summary> <b>openwrt-passwall-packages new commit log :x: </b>  </summary>
 
-SHA|Author|Date|Message
--|-|-|-
-55c2502|github-actions[bot]|Fri Feb 7 12:54:19 2025 +0800|microsocks: update to 1.0.5 (#378)
+<b> It is detected that openwrt-passwall-packages has an illegal SHA value. It is possible that openwrt-passwall-packages has git rebase behavior. The relevant git update log cannot be counted. Please wait for the next compilation time.</b>
+
 </details>
